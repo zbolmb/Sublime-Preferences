@@ -8,24 +8,30 @@ Then copy paste below into console
 
 Plugins:
 - BracketHighlighter
-- Source Code Pro font
 - Git gutter
 - Sublime Linter
-- Soda (Theme)
 - Flatland (Theme)
 - Flatland dark (color scheme)
+- Trailing Whitespace
+
 
 Preference Edits:
 
-“font_face”: “Inconsolata",
-"font_size": 18,
-"line_padding_bottom": 1,
-"line_padding_top": 1,
-"highlight_line": true,
-"highlight_modified_tabs": true,
-"fade_fold_buttons": false,
-"word_wrap": true,
-"bold_folder_labels": true,
+"theme": "Flatland Dark.sublime-theme",  
+"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"  
+“font_face”: “Inconsolata",  
+"font_size": 18,  
+"line_padding_bottom": 1,  
+"line_padding_top": 1,  
+"highlight_line": true,  
+"highlight_modified_tabs": true,  
+"fade_fold_buttons": false,  
+"word_wrap": true,  
+"bold_folder_labels": true,  
+
+Keybindings:
+
+{ "keys": ["super+r"], "command": "reindent" }
 
 Package Control:
 

@@ -20,8 +20,7 @@ Preference Edits:
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"theme": "Material-Theme.sublime-theme",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai-Midnight (SL).tmTheme",
 	"fade_fold_buttons": false,
 	"font-face": "Operator Mono",
 	"font-size": 18,
@@ -44,9 +43,12 @@ Preference Edits:
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
+
+
 ~~~~
 
 Keybindings:
